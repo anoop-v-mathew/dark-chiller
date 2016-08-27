@@ -30,7 +30,8 @@ app.post("/dreams", function (request, response) {
 var dreams = [
   "To become financially independent",
   "To reduce my environmental footprint",
-  "To support my kids to do whatever they want"
+  "To support my kids to do whatever they want",
+  "To keep my spouse happy"
   ];
 
 // listen for requests :)
